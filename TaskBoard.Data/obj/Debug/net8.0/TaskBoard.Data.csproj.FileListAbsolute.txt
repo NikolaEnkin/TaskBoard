@@ -1,0 +1,13 @@
+/Users/nikolaenkin/Desktop/06-Deployment-to-Cloud-Exercises-Resources/06.TaskBoard-ASP.NET-App/TaskBoard.Data/bin/Debug/net8.0/TaskBoard.Data.deps.json
+/Users/nikolaenkin/Desktop/06-Deployment-to-Cloud-Exercises-Resources/06.TaskBoard-ASP.NET-App/TaskBoard.Data/bin/Debug/net8.0/TaskBoard.Data.dll
+/Users/nikolaenkin/Desktop/06-Deployment-to-Cloud-Exercises-Resources/06.TaskBoard-ASP.NET-App/TaskBoard.Data/bin/Debug/net8.0/TaskBoard.Data.pdb
+/Users/nikolaenkin/Desktop/06-Deployment-to-Cloud-Exercises-Resources/06.TaskBoard-ASP.NET-App/TaskBoard.Data/obj/Debug/net8.0/TaskBoard.Data.csproj.AssemblyReference.cache
+/Users/nikolaenkin/Desktop/06-Deployment-to-Cloud-Exercises-Resources/06.TaskBoard-ASP.NET-App/TaskBoard.Data/obj/Debug/net8.0/TaskBoard.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikolaenkin/Desktop/06-Deployment-to-Cloud-Exercises-Resources/06.TaskBoard-ASP.NET-App/TaskBoard.Data/obj/Debug/net8.0/TaskBoard.Data.AssemblyInfoInputs.cache
+/Users/nikolaenkin/Desktop/06-Deployment-to-Cloud-Exercises-Resources/06.TaskBoard-ASP.NET-App/TaskBoard.Data/obj/Debug/net8.0/TaskBoard.Data.AssemblyInfo.cs
+/Users/nikolaenkin/Desktop/06-Deployment-to-Cloud-Exercises-Resources/06.TaskBoard-ASP.NET-App/TaskBoard.Data/obj/Debug/net8.0/TaskBoard.Data.csproj.CoreCompileInputs.cache
+/Users/nikolaenkin/Desktop/06-Deployment-to-Cloud-Exercises-Resources/06.TaskBoard-ASP.NET-App/TaskBoard.Data/obj/Debug/net8.0/TaskBoard.Data.sourcelink.json
+/Users/nikolaenkin/Desktop/06-Deployment-to-Cloud-Exercises-Resources/06.TaskBoard-ASP.NET-App/TaskBoard.Data/obj/Debug/net8.0/TaskBoard.Data.dll
+/Users/nikolaenkin/Desktop/06-Deployment-to-Cloud-Exercises-Resources/06.TaskBoard-ASP.NET-App/TaskBoard.Data/obj/Debug/net8.0/refint/TaskBoard.Data.dll
+/Users/nikolaenkin/Desktop/06-Deployment-to-Cloud-Exercises-Resources/06.TaskBoard-ASP.NET-App/TaskBoard.Data/obj/Debug/net8.0/TaskBoard.Data.pdb
+/Users/nikolaenkin/Desktop/06-Deployment-to-Cloud-Exercises-Resources/06.TaskBoard-ASP.NET-App/TaskBoard.Data/obj/Debug/net8.0/ref/TaskBoard.Data.dll
